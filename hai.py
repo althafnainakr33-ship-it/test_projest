@@ -14,6 +14,8 @@ if not os.path.exists(audio_file):
     print("👉 Make sure the file is in the same folder as this script.")
     exit()
 
+print(f"sssssssssss")
+
 # =========================
 # LOAD MODEL
 # =========================
